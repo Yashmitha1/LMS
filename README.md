@@ -32,7 +32,7 @@ The Library Management System is a desktop application designed to manage the op
 3. **Set up MySQL Database and Tables**
 4. **Run the Application:**
      ```bash
-    python main.py
+    python Library_Management_System.py
 
   
    
